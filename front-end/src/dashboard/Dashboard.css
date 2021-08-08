@@ -1,0 +1,26 @@
+.tables {
+  background-color: rgba(0, 255, 179, 0.425);
+}
+
+span.badge.bg-success {
+  margin-left: 13%;
+}
+
+span.badge.bg-primary {
+  color: white;
+}
+
+.occupied {
+  background-color: rgba(0, 255, 98, 0.377);
+}
+
+.free {
+  background-color: rgba(155, 255, 255, 0.26);
+}
+
+li.list-group-item {
+  border-top: 0;
+  border-width: 5px;
+  border-radius: 10px;
+  margin: 0 0 15px 0;
+}
