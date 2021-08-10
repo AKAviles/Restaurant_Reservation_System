@@ -26,6 +26,36 @@ When clicking on "New Reservation" menu item, you will be directed to a page tha
 
 ![](front-end/.screenshots/newReservationDash.PNG)
 
+>
+
+### /reservations/:reservation_id/edit
+
+When clicking the "edit" button on a reservation, you will be directed to an "Edit Reservation" form which will load the reservation's information where it can be edited, saved, or cancelled.
+
+![](front-end/.screenshots/edit.PNG)
+
+>
+
+### /reservations/:reservation_id/seat
+
+When clicking the "seat" button on a reservation, you will be directed to a page to choose a table to seat selected reservation at.
+
+![](front-end/.screenshots/seat1.PNG)
+
+When submitting, you will be directed back to dashboard that has updated to show the reservation with status "seated" and selected table with status "occupied". "Finish" button will also be displayed.
+
+![](front-end/.screenshots/seat2.PNG)
+
+After a reservation has finished, you can choose "finish" to change the status of the table to "free" and status of reservation to "finished."
+
+![](front-end/.screenshots/seat3.PNG)
+
+>
+
+### /tables/new
+
+### /reservations/search
+
 This repository is set up as a _monorepo_, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
 As you work through the user stories listed later in this document, you will be writing code that allows your frontend and backend applications to talk to each other. You will also write code to allow your controllers and services to connect to, and query, your PostgreSQL database via [Knex](http://knexjs.org/).
