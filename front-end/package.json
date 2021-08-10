@@ -13,7 +13,6 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
-    "dotenv": "^8.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router": "^5.2.0",
@@ -22,7 +21,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "build": "set \"CI=false\" && react-scripts build",
+    "build": "react-scripts build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "npx cross-env CI=true npm run test:run",
