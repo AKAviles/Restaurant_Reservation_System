@@ -9,7 +9,7 @@ import Layout from "./layout/Layout";
 function App() {
   return (
     <Switch>
-      <Route path="/">
+      <Route path='/'>
         <Layout />
       </Route>
     </Switch>
