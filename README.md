@@ -16,6 +16,16 @@ When loading the url, you will be directed to the dashboard of the application w
 
 ![](front-end/.screenshots/dashboard.PNG)
 
+>
+
+### /reservations/new
+
+When clicking on "New Reservation" menu item, you will be directed to a page that displays the form to complete to create a new reservation that will post to the dashboard page.
+
+![](front-end/.screenshots/newReservation.PNG)
+
+![](front-end/.screenshots/newReservation.png)
+
 This repository is set up as a _monorepo_, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
 As you work through the user stories listed later in this document, you will be writing code that allows your frontend and backend applications to talk to each other. You will also write code to allow your controllers and services to connect to, and query, your PostgreSQL database via [Knex](http://knexjs.org/).
