@@ -14,7 +14,7 @@ Periodic Tables is designed to help restaurants manage reservations and tables a
 
 When loading the url, you will be directed to the dashboard of the application which will default to displaying the tables and current reservations for current date.
 
-![Alt text](/front-end/screenshots/dashboard.png)
+![](starter-restaurant-reservation-main/front-end/screenshots/dashboard.png)
 
 This repository is set up as a _monorepo_, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
