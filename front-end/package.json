@@ -59,6 +59,7 @@
       "last 1 safari version"
     ]
   },
+  "proxy": "http://localhost:5000",
   "devDependencies": {
     "cross-fetch": "^3.0.6",
     "jest-puppeteer": "^4.4.0",
