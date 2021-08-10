@@ -24,7 +24,7 @@ When clicking on "New Reservation" menu item, you will be directed to a page tha
 
 ![](front-end/.screenshots/newReservation.PNG)
 
-![](front-end/.screenshots/newReservation.png)
+![](front-end/.screenshots/newReservationDash.png)
 
 This repository is set up as a _monorepo_, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
