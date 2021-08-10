@@ -22,7 +22,7 @@
   },
   
   "scripts": {
-    "build": "CI = false  react-scripts build",
+    "build": "CI = false && react-scripts build",
     "eject": "react-scripts eject",
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "npx cross-env CI=true npm run test:run",
