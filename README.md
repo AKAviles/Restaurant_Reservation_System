@@ -54,7 +54,19 @@ After a reservation has finished, you can choose "finish" to change the status o
 
 ### /tables/new
 
+When clicking the "New Table" button on the menu in the dashboard, you will be directed to create a new table.
+
+![](front-end/.screenshots/newTable1.PNG)
+
+After submitting, the dashboard will be updated with the new table information.
+
+![](front-end/.screenshots/newTable2.PNG)
+
 ### /reservations/search
+
+When clicking the "Seach" button on the menu in the dashboard, you will be directed to a search page to search the database for reservations that match the number provided.
+
+![](front-end/.screenshots/search.PNG)
 
 This repository is set up as a _monorepo_, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
