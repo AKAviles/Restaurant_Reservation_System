@@ -2,7 +2,9 @@
 
 ## Deployed Application
 
-> _insert link later_
+> https://restaurant-res-front-end1.vercel.app/dashboard
+
+I deployed the Frontend portion using Vercel and Backend portion using Heroku.
 
 ## Overview
 
