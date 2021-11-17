@@ -2,7 +2,7 @@
 
 ## Deployed Application
 
-> [Live](https://restaurant-res-front-end1.vercel.app/dashboard)
+> [Live Preview](https://restaurant-res-front-end1.vercel.app/dashboard)
 
 I deployed the Frontend portion using Vercel and Backend portion using Heroku.
 
